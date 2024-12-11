@@ -1,0 +1,82 @@
+.navbar{
+
+    background-color: #1e202b;
+  }
+  .navbar-brand{
+      color: white;
+  }
+  .navbar-nav .nav-link.active{
+      color: white;
+  }
+  .nav-link{
+      color: white;
+  }
+  .layer2 ul{
+    color: black;
+    
+  }
+  .nav-link:hover {
+    color: #15bcdf;
+  }
+  .navbar-brand:hover{
+    color: white;
+  }
+  .icon{
+    color: #15bcdf;
+  }
+ .text{
+    background-image: linear-gradient(rgba(12, 12, 12, 0.122), rgba(2, 2, 2, 0.823)),url(../images/OIP.jpeg);
+  background-position: center center;
+  background-size: cover;
+  height: 400px;
+  background-repeat: no-repeat;
+  }
+ .int{
+  border-color: #15bcdf;
+    background-color: #15bcdf;
+    border-style: solid;
+    border-width: 15px;
+    border-radius: 15px;
+    color: white;
+  }
+  .form-floating .form-control{
+    background-color: #1e202b;
+}
+.form-floating .float{
+  color: white;
+}
+.form-floating .form-control{
+  color: white;
+}
+.container{
+  width: 80%;
+  margin: auto;
+}
+.information{
+  background-color: #2d303d;
+  height: 350px;
+}
+.information .map{
+  background-color: #323544;
+}
+.map .icon1{
+  color: #15bcdf;
+}
+.weat{
+  background-color: #323544;
+}
+.sub{
+  background-color: #1e202b;
+}
+.information .map2{
+  background-color: #2d303d;
+}
+.map2 .textpart{
+  color: #15bcdf;
+}
+.map2 .cloudicon{
+  color: #15bcdf;
+}
+span .face{
+  color: #15bcdf;
+}
